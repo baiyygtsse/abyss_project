@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav-header></nav-header>
-    <div>This is cartInfo...</div>
+    <div>This is git_cartInfo...</div>
     <div class="container">
       <div class="cart">
         <div class="page-title-normal">
